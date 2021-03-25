@@ -31,12 +31,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-The main objective of this project is to apply the knowledge gained from the course and work with the recommended open source applications as a team:
+The main objective of this project is to apply the knowledge gained from the course to deploy the recommended open source application:
 
-https://github.com/spring-petclinic/spring-petclinic-angular
-https://github.com/spring-petclinic/spring-petclinic-rest
+#### Front-end: https://github.com/spring-petclinic/spring-petclinic-angular<br />
+#### Back-end: https://github.com/spring-petclinic/spring-petclinic-rest
 
-We will need to plan, design and implement a solution for automating the development workflows and deployments of the application.
+The team will need to plan, design and implement a solution for automating the development workflows and deployments of the application.
 
 
 <!-- PROJECT PLANNING -->
@@ -49,7 +49,7 @@ On the final week, we have decided to use common cloud technology and the group 
 <!-- CI Pipeline -->
 ## CI Pipeline
 
-Below are the tools we use for our project.
+#### Below are the tools we use for our project.
 * Kanban Board: Trello
 * Version Control: Github
 * Cloud service: Amazon Web Services (AWS)
@@ -73,8 +73,6 @@ Below are the tools we use for our project.
    ```JS
    const API_KEY = 'ENTER YOUR API';
    ```
-
-
 
 <!-- USAGE EXAMPLES -->
 ## Risk Analysis
