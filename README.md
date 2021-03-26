@@ -17,12 +17,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -73,8 +68,10 @@ Terraform is an open-source tool and its easy to reuse and maintain module struc
 
 ![](https://github.com/WaledSalem/sigma-project/blob/Documentation/risk_assessment.jpg)
 
+<!-- Running cost estimation -->
 ## Running cost estimation
 
+![](https://github.com/WaledSalem/sigma-project/blob/Documentation/Cost%20estimate.jpg)
 
 <!-- CONTRIBUTORS -->
 ## Contributors
