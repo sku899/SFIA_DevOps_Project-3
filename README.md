@@ -53,8 +53,8 @@ Terraform is an open-source tool and its easy to reuse and maintain module struc
 <!-- CONTRIBUTORS -->
 ## Contributors
 
-1. Karolina Sura
+1. Karolina Sura  https://github.com/SuraKarolina 
 2. Serin Jeon  https://github.com/serin0837
-3. Waled Salem
+3. Waled Salem   https://github.com/WaledSalem
 4. Sabina Ku   https://github.com/sku899
-5. Irene Chung
+5. Irene Chung   https://github.com/i-chung
