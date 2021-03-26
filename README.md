@@ -1,28 +1,5 @@
 # DevOps Final Project
 
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#contributing">Contributing</a></li>
-  </ol>
-</details>
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -77,7 +54,7 @@ Terraform is an open-source tool and its easy to reuse and maintain module struc
 ## Contributors
 
 1. Karolina Sura
-2. Serin Jeon
+2. Serin Jeon  https://github.com/serin0837
 3. Waled Salem
-4. Sabina Ku
+4. Sabina Ku   https://github.com/sku899
 5. Irene Chung
