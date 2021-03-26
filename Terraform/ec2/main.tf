@@ -9,6 +9,7 @@ resource "aws_instance" "web-server-instance" {
     network_interface_id = var.net_id
   }
 
+
   user_data = <<-EOF
                 #!/bin/bash
                 sudo apt update -y
