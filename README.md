@@ -29,7 +29,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About The Project:
 
 The main objective of this project is to apply the knowledge gained from the course to deploy the recommended open source application:
 
