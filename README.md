@@ -57,6 +57,8 @@ On the final week, we have decided to use common cloud technology and the group 
 * Deployment: Kubernetes and Jenkins
 * Infrastructure management: Terraform
 
+![](https://github.com/WaledSalem/sigma-project/blob/Documentation/Documents/CI_pipline.png)
+
 <!-- Risk management -->
 ## Risk assessment
 
