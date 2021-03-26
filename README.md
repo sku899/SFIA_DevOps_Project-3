@@ -18,6 +18,8 @@ To achieve our goal, we have set our sprint planning meeting on every Friday for
 
 On the final week, we have decided to use common cloud technology and the group has split into two sub-teams to work on their allocated tasks, i.e. Terraform and Kubernetes. We have daily startup meeting to see the progress of the tasks. While it went well with the configuration of Kubernetes, some unforseen issues happened with the configuration of Terraform. The team has digged deep into the literature and the configuration issues have been resolved. For the automation deployment, the original plan was to use Ansible, however the discovery of the same functionality of Terraform make our project progress faster.
 
+https://github.com/WaledSalem/sigma-project/blob/Documentation/trello_board.jpg
+
 <!-- CI Pipeline -->
 ## CI Pipeline
 
