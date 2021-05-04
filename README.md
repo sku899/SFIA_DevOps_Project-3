@@ -1,4 +1,4 @@
-# DevOps Final Project
+# SFIA_DevOps_Project 3
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
